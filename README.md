@@ -1,7 +1,7 @@
 # Sparse-UBI-S3-V2
 A new method for identifying the mixing matrix in underdetermined BSS based on k-SCA
-Assume X=A.S, X is known but A and is unknown
-The columns of S are k-Sparse, nemely, there is k non-zero elemnets
+Assume X=A.S, X is known but A and S are unknown
+The columns of S are k-Sparse, nemely, there are k non-zero elemnets
 Idea: Subspace Selective Search (S3)
 
 % [1] E. Eqlimi and B. Makkiabadi, “Multiple sparse component analysis

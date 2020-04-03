@@ -1,19 +1,19 @@
-%% Main cos for running S3 method 
-% this cose generates simulated mixtures (X=A.S), and then applies
+%% Main code for running S3 method 
+% this code generates simulated mixtures (X=A.S), and then applies
 % S3 method on it, in order to identify the mixing matrix (A). It also calculate 
 % the idenrtification error.
 
 %This code implemntes our underderminded blind identification method 
 %proposed in the follwong papers:
 
-% [1] E. Eqlimi and B. Makkiabadi, “Multiple sparse component analysis
-% based on subspace selective search algorithm,” in 2015 23rd Iranian
-% Conference on Electrical Engineering. IEEE, 2015, pp. 550–554
+% [1] E. Eqlimi and B. Makkiabadi, â€œMultiple sparse component analysis
+% based on subspace selective search algorithm,â€ in 2015 23rd Iranian
+% Conference on Electrical Engineering. IEEE, 2015, pp. 550â€“554
 % 
-% [2] E. Eqlimi and B. Makkiabadi, “An efficient K-SCA based unerdetermined
-% channel identification algorithm for online applications,” in 2015
+% [2] E. Eqlimi and B. Makkiabadi, â€œAn efficient K-SCA based unerdetermined
+% channel identification algorithm for online applications,â€ in 2015
 % 23rd European Signal Processing Conference (EUSIPCO). IEEE, 2015,
-% pp. 2661–2665.
+% pp. 2661â€“2665.
 
 %Please cite the above papers in case of any usage or benchmarking.
 % 

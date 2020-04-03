@@ -10,7 +10,7 @@ Idea: Subspace Selective Search (S3)
 % [1] E. Eqlimi and B. Makkiabadi, “Multiple sparse component analysis
 % based on subspace selective search algorithm,” in 2015 23rd Iranian
 % Conference on Electrical Engineering. IEEE, 2015, pp. 550–554
-% 
+ 
 % [2] E. Eqlimi and B. Makkiabadi, “An efficient K-SCA based unerdetermined
 % channel identification algorithm for online applications,” in 2015
 % 23rd European Signal Processing Conference (EUSIPCO). IEEE, 2015,

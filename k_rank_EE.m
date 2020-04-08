@@ -1,16 +1,16 @@
-
-% [1] E. Eqlimi and B. Makkiabadi, “Multiple sparse component analysis
-% based on subspace selective search algorithm,” in 2015 23rd Iranian
-% Conference on Electrical Engineering. IEEE, 2015, pp. 550–554
+%Written vt Dr.Bahador Makkiabadi, @TUMS,tehran, Iran
+% [1] E. Eqlimi and B. Makkiabadi, â€œMultiple sparse component analysis
+% based on subspace selective search algorithm,â€ in 2015 23rd Iranian
+% Conference on Electrical Engineering. IEEE, 2015, pp. 550â€“554
 % 
-% [2] E. Eqlimi and B. Makkiabadi, “An efficient K-SCA based unerdetermined
-% channel identification algorithm for online applications,” in 2015
+% [2] E. Eqlimi and B. Makkiabadi, â€œAn efficient K-SCA based unerdetermined
+% channel identification algorithm for online applications,â€ in 2015
 % 23rd European Signal Processing Conference (EUSIPCO). IEEE, 2015,
-% pp. 2661–2665.
+% pp. 2661â€“2665.
 
 %Please cite the above papers in case of any usage or benchmarking.
 % 
-% (C) Ehsan Eqlimi, Jan 2015, @Biomedical Engineering Group, Tehran
+% (C) Bahador Makkiabdi, Ehsan Eqlimi, Jan 2015, @Biomedical Engineering Group, Tehran
 % Universty of Medical Scineces (TUMS), Tehran, Iran
 % https://github.com/EhsanEqlimi/Sparse-UBI-S3
 

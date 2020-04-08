@@ -27,4 +27,4 @@ Universty of Medical Scineces (TUMS), Tehran, Iran
 
  https://github.com/EhsanEqlimi/Sparse-UBI-S3
 
- Ehsun.Eghlimi@gmail.com, Eghlimi@razi.tumss.ac.ir, Ehsan.eqlimi@ugent.be, b-makkiabadi@sina.tums.ac.ir
+ Contact: Ehsan.Eqlimi@ugent.be, Eghlimi@razi.tumss.ac.ir, b-makkiabadi@sina.tums.ac.ir

@@ -1,5 +1,5 @@
 # Sparse-UBI-S3-V2
-A new method for identifying the mixing matrix in underdetermined blind source seperation (UBSS) based on k-SCA
+A new method for identifying the mixing matrix in underdetermined blind source seperation (UBSS) based on k-sparse component analysis (k-SCA)
 
 Assume X=A.S,
 

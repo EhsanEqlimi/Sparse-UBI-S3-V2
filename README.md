@@ -2,8 +2,9 @@
 A new method for identifying the mixing matrix in underdetermined BSS based on k-SCA
 Assume X=A.S,
 
-X is known but A and S are unknown
-The columns of S are k-Sparse, nemely, there are k non-zero elemnets
+Prblem statement: X is known but A and S are unknown.
+The columns of S are k-Sparse, nemely, there are k non-zero elemnets. 
+Aim: Indetfying the mixing matrix A
 
 Idea: Subspace Selective Search (S3)
 

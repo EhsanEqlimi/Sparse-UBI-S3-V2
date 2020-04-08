@@ -4,7 +4,7 @@ Assume X=A.S,
 
 Prblem statement: X is known but A and S are unknown.
 The columns of S are k-Sparse, nemely, there are k non-zero elemnets. 
-Aim: Indetfying the mixing matrix A
+Aim: Find the mixing matrix A
 
 Idea: Subspace Selective Search (S3)
 

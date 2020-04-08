@@ -1,9 +1,12 @@
 # Sparse-UBI-S3-V2
-A new method for identifying the mixing matrix in underdetermined BSS based on k-SCA
+A new method for identifying the mixing matrix in underdetermined blind source seperation (UBSS) based on k-SCA
+
 Assume X=A.S,
 
-Prblem statement: X is known but A and S are unknown.
+Prblem statement: X is known but A and S are unknown. There are more sources than sensors (under-determoned BSS). 
+
 The columns of S are k-Sparse, nemely, there are k non-zero elemnets. 
+
 Aim: Find the mixing matrix A
 
 Idea: Subspace Selective Search (S3)

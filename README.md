@@ -18,7 +18,7 @@ based on subspace selective search algorithm,” in 2015 23rd Iranian
 
 Please cite the above papers in case of any usage or benchmarking.
 
- (C) Ehsan Eqlimi and Dr.Bahador Makkibadi, Jan 2015, @Biomedical Engineering Group, Tehran
+ (C) Ehsan Eqlimi and Dr.Bahador Makkibadi, Jan 2015, @ Medical Physcis & Biomedical Engineering Department, Tehran
 Universty of Medical Scineces (TUMS), Tehran, Iran
 
  https://github.com/EhsanEqlimi/Sparse-UBI-S3

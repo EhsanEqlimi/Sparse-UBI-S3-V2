@@ -3,7 +3,7 @@ A new method for identifying the mixing matrix in underdetermined blind source s
 
 Assume X=A.S,
 
-Prblem statement: X is known but A and S are unknown. There are more sources than sensors (under-determoned BSS). 
+Prblem statement: X is known but A and S are unknown. There are more sources than sensors. 
 
 The columns of S are k-Sparse, nemely, there are k non-zero elemnets. 
 

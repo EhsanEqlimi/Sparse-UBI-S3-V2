@@ -19,6 +19,32 @@ The main objective of this method is to find the mixing matrix A, given the know
 
 This method is based on the Subspace Selective Search (S3) algorithm, which is designed to tackle the underdetermined blind source separation problem by exploiting the k-sparse nature of the source signals.
 
+
+## Parameters
+Here are the key parameters you can configure in the code:
+
+m: Number of sensors.
+
+n: Number of sources.
+
+k: Number of active sources in each time point.
+
+T: Number of data points (samples).
+
+Sigma: Parameter controlling the standard deviation of normal noise over zero sources.
+
+AMode: k-SCA condition satisfaction mode.
+
+IterNum: Number of iterations to generate a good mixing matrix.
+
+RankTh: Threshold for generating a good mixing matrix.
+
+MixingMode: Mixing mode ('kSCA', 'MSCA', 'PermkSCA', etc.).
+
+Other parameters (Th, ReNum, Th1, Th2, Th3, px, alphax, hypin, Orth, etc.).
+
+
+
 ## References
 
 If you use or reference this method, please make sure to cite the following papers:

@@ -19,6 +19,12 @@ The main objective of this method is to find the mixing matrix A, given the know
 
 This method is based on the Subspace Selective Search (S3) algorithm, which is designed to tackle the underdetermined blind source separation problem by exploiting the k-sparse nature of the source signals.
 
+## Usage
+Open MATLAB.
+
+Navigate to the code directory.
+
+In MATLAB, run the main algorithm "Main_s3.m."
 
 ## Parameters
 Here are the key parameters you can configure in the code:

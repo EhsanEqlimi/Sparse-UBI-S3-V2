@@ -23,9 +23,9 @@ This method is based on the Subspace Selective Search (S3) algorithm, which is d
 
 If you use or reference this method, please make sure to cite the following papers:
 
-1. [Multiple Sparse Component Analysis Based on Subspace Selective Search Algorithm]([https://ieeexplore.ieee.org/abstract/document/7146277)] by E. Eqlimi and B. Makkiabadi, presented at the 2015 23rd Iranian Conference on Electrical Engineering.
+1. [Multiple Sparse Component Analysis Based on Subspace Selective Search Algorithm](https://ieeexplore.ieee.org/abstract/document/7146277) by E. Eqlimi and B. Makkiabadi, presented at the 2015 23rd Iranian Conference on Electrical Engineering.
 
-2. [An Efficient K-SCA Based Underdetermined Channel Identification Algorithm for Online Applications]([[link_to_paper_2](https://ieeexplore.ieee.org/document/7362867)) by E. Eqlimi and B. Makkiabadi, presented at the 2015 23rd European Signal Processing Conference (EUSIPCO).
+2. [An Efficient K-SCA Based Underdetermined Channel Identification Algorithm for Online Applications](https://ieeexplore.ieee.org/document/7362867) by E. Eqlimi and B. Makkiabadi, presented at the 2015 23rd European Signal Processing Conference (EUSIPCO).
 
 ## Contact Information
 
